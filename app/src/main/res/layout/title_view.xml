@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/width_title"
+    android:layout_height="@dimen/height_title"
+    android:background="@drawable/background_tv_reaction"
+    android:gravity="center"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:textColor="@android:color/white"></TextView>
